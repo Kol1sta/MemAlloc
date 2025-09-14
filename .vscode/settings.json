@@ -1,0 +1,18 @@
+{
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "always"
+    },
+
+    "[rust]": {
+
+    },
+
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.eol": "\n"
+}
